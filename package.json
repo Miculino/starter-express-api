@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "npm install"
+    "start": "npm install && nodemon index.js"
   },
   "repository": {
     "type": "git",
